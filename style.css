@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: rgb(213, 225, 239);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+}
+main{
+    height: 350px ;
+    width: 225px ;
+    padding: 12.5px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 13px;
+    box-shadow:#8f8f8f 0px 2px 5px 1px;
+}
+img{
+    height: 225px;
+    border-radius:10px;
+}
+p{
+    font-family: sans-serif;
+    text-align:center;
+
+
+}
+.firsttext{
+    font-weight: bold;
+    font-size: 16.34px;
+}
+.secondtext{
+    font-size: 11.6px ;
+    font-weight: 600;
+    color: rgb(117, 120, 128);
+}
